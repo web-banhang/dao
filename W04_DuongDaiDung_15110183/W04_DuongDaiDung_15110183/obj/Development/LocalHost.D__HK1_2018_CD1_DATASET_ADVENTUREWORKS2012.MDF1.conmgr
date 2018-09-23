@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.D__HK1_2018_CD1_DATASET_ADVENTUREWORKS2012.MDF1"
+  DTS:DTSID="{9134AFFA-D8B3-49A3-9F39-0485C124E94D}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.;Initial Catalog=D:\HK1_2018\CD1\DATASET\ADVENTUREWORKS2012.MDF;Integrated Security=True;Application Name=SSIS-W04_DuongDaiDung_15110183-{9134AFFA-D8B3-49A3-9F39-0485C124E94D}LocalHost.D:\HK1_2018\CD1\DATASET\ADVENTUREWORKS2012.MDF1;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
